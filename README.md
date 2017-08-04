@@ -1,13 +1,6 @@
-# GitUserAccessor>
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- 
- +Add an awesome badge to the top of your list, right to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
- 
- ```md
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- ```
-<br/>
-## About Application
+## GitUserAccessor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## About
 
 GitUserAccessor is a hybrid(android,ios,windows) application that enables any it's users to serch for a github user amd get all the neccessary information about the user.
 
