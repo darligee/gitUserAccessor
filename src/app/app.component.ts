@@ -5,8 +5,11 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { TabsPage } from '../pages/tabs/tabs';
 
+import {GithubServiceProvider} from '../providers/github-service/github-service';
+
 @Component({
-  templateUrl: 'app.html'
+  templateUrl: 'app.html',
+  providers: [GithubServiceProvider]
 })
 export class MyApp {
   rootPage:any = TabsPage;
